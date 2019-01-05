@@ -3,4 +3,5 @@
 This is a simple example of Spring MVC
 
 ## Usage
-``` mvn tomcat7:run
+``` java
+mvn tomcat7:run
